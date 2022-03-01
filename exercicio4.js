@@ -1,0 +1,1 @@
+//Rescreva a função atribuída à variável magic usando a sintaxe de arrow function. A função deve retornar new Date(). Além disso, garanta que nada seja definido usando a palavra-chave var.
